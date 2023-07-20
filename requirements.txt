@@ -1,0 +1,6 @@
+pytest
+mock
+coverage
+pytest-cov
+pytest-randomly
+pytest-mock
